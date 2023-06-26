@@ -1,8 +1,6 @@
 package section02;
 
 public class OriginalASCII {
-    //Use print statements to create your own beautiful original ASCII art.
-    //Use comments to describe what your image is depicting.
     public static void main(String[] args) {
         System.out.println("\n" +
                 "          _____                    _____                _____                    _____                    _____                    _____          \n" +
